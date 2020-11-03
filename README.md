@@ -1,1 +1,1 @@
-# Django_simplePollApp
+# A simple polling app developed in django
